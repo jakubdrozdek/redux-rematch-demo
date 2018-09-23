@@ -1,3 +1,5 @@
+import cart from "./cart";
 import counter from "./counter";
+import currency from "./currency";
 
-export { counter };
+export { cart, counter, currency };

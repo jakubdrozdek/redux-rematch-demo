@@ -1,0 +1,16 @@
+.Products {
+}
+
+.Products-add {
+}
+
+.Products-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+
+.Products-table th,
+.Products-table td {
+  padding: 5px;
+}

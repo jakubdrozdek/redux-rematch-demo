@@ -1,0 +1,12 @@
+.Counter {
+  text-align: center;
+  font-weight: bold;
+}
+
+.Counter-actions {
+  padding: 10px;
+}
+
+.Counter-actions button {
+  margin-bottom: 10px;
+}

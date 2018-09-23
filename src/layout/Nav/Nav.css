@@ -1,0 +1,15 @@
+.Nav {
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #eee;
+}
+
+.Nav-link {
+  color: black;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.Nav-link--active {
+  font-weight: bold;
+}
