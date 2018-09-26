@@ -5,7 +5,7 @@ import { connect } from "react-redux";
 import { actions } from "./redux/counter";
 import "./App.css";
 
-class App extends Component {
+export class App extends Component {
   render() {
     const {
       count,
